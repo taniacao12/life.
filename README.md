@@ -19,8 +19,8 @@ To play this game you have two running options:
 * run our Processing program (offline version for computers and laptops only)
 
 <b>Instructions for webpage</b>
-1. Clone this repository
-2. Open the corresponding directory and drag the welcome.html to your web browser
+1. Open your desired web brower.
+2. Go to the following link: https://kp-palmer.github.io/life/
 3. Click anywhere to start the game.
 
 <b>Instructions for Processing</b>
