@@ -8,6 +8,9 @@ Created by: Team Organic Forto Coffee (Tania Cao, Melen Negussie, Kristen Palmer
 
 Note: the full version of this game is yet to be made.
 
+## purpose
+The purpose of the game is be aware of the lives of the diverse people around you by understanding how their gender, financial status, education, and hobbies correlate with their lifestyle and where they are in the social pyramid. It also shows how different choices and events impact one's social status.
+
 ## How It Works
 Our webpage has two HTML files: main.html and welcome.html. Most of the work involved figuring out how to implement the swiping function, which we accomplished by using JavaScript and JQuery. The design for the website was coded in our style.css file.
 
