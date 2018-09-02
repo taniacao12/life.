@@ -1,4 +1,4 @@
-# My Identity
+# Life.
 Created by: Tania, Melen, Kristen, and Aaliyah
 
 ## General Description
