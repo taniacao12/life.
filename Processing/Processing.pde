@@ -24,7 +24,7 @@ void draw() {
     image(img, 50, 300, 400, 400);
     fill(black);
     textSize(50);
-    text("Life.", 200, 100);
+    text("life.", 200, 100);
     textSize(20);
     String s = "Description: This is an life simulation game. You create your virtual character and choose pathways that determines the character's background identity. Once complete, you will be given the advantages and disadvantages in having the background your character has.";
     text(s, 50, 150, 400, 300);
@@ -42,7 +42,7 @@ void draw() {
     img = loadImage("pic (2).png");
     image(img, 0, 0, 500, 700);
     textSize(30);
-    text("Life.", 400, 50);
+    text("life.", 400, 50);
     textSize(20);
     fill(gray);
     text("Click the ESC key to close the game", 70, 85);
