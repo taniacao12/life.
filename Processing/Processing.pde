@@ -26,7 +26,7 @@ void draw() {
     textSize(50);
     text("Life.", 200, 100);
     textSize(20);
-    String s = "Description: This is an life simulation game. You get to create your own virtual character and choose pathways to build your character. Once all the general input is complete, you will be given sets of choices that will allow you to progress through your virtual life. Good Luck!";
+    String s = "Description: This is an life simulation game. You create your virtual character and choose pathways that determines the character's background identity. Once complete, you will be given the advantages and disadvantages in having the background your character has.";
     text(s, 50, 150, 400, 300);
     fill(gray);
     text("CLICK ANYWHERE TO START", 110, 650);
