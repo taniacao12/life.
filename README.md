@@ -2,9 +2,9 @@
 Created by: Tania, Melen, Kristen, and Aaliyah
 
 ## General Description
-MINI GAME: You create your virtual character and choose pathways that determines the character's background identity. Once complete, you will be given the advantages and disadvantages in having the background your character has.
+<b>MINI GAME</b>: You create your virtual character and choose pathways that determines the character's background identity. Once complete, you will be given the advantages and disadvantages in having the background your character has.
 
-FULL GAME: This is an life simulation game. You create your own virtual character and choose pathways to build your it. Once background information is complete, you will be given sets of choices that will allow you to progress through your virtual life.
+<b>FULL GAME</b>: This is an life simulation game. You create your own virtual character and choose pathways to build your it. Once background information is complete, you will be given sets of choices that will allow you to progress through your virtual life.
 
 Note: the full version of this game is yet to be made.
 
@@ -18,11 +18,11 @@ To play this game you have two running options:
 * run our webgame (online version available in computers, laptops and on mobile)
 * run our Processing program (offline version for computers and laptops only)
 
-### Instructions for webpage:
+<b>Instructions for webpage</b>
 1. Open the following link: (link)
 2. (Instructions)
 
-### Instructions for Processing:
+<b>Instructions for Processing</b>
 1. Download Processing using the following link: https://processing.org/download/
 2. Download this repository's files
 3. Open the repository's folder
