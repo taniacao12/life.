@@ -1,5 +1,5 @@
-# Life.
-Created by: Tania, Melen, Kristen, and Aaliyah
+# life.
+Created by: Team Organic Forto Coffee (Tania Cao, Melen Negussie, Kristen Palmer, and Aaliyah Sayed)
 
 ## General Description
 <b>MINI GAME</b>: You create your virtual character and choose pathways that determines the character's background identity. Once complete, you will be given the advantages and disadvantages in having the background your character has.
