@@ -9,18 +9,19 @@ Created by: Tania, Melen, Kristen, and Aaliyah
 Note: the full version of this game is yet to be made.
 
 ## How It Works
-Our webpage is made up of four classes: _, _, _, and _. (Descriptions of each class and its function).
+Our webpage has two HTML files: main.html and welcome.html. Most of the work involved figuring out how to implement the swiping function, which we accomplished by using JavaScript and JQuery. The design for the website was coded in our style.css file.
 
 Our Processing program is made up of three classes: a main, story, and ending class. The story class creates the storyline of the game. Likewise, the ending class creates the list containing the advantages and disadvatages that come from specific combinations of backgrounds. Lastly, the main class serves as the base structure by composing the visuals and the functionality between all the classes and instance variables.
 
 ## Instructions
 To play this game you have two running options:
-* run our webgame (online version available in computers, laptops and on mobile)
+* run our webgame (online version available on computers, laptops and mobile)
 * run our Processing program (offline version for computers and laptops only)
 
 <b>Instructions for webpage</b>
-1. Open the following link: (link)
-2. (Instructions)
+1. Clone this repository
+2. Open the corresponding directory and drag the welcome.html to your web browser
+3. Click anywhere to start the game.
 
 <b>Instructions for Processing</b>
 1. Download Processing using the following link: https://processing.org/download/
